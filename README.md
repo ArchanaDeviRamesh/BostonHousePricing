@@ -1,5 +1,5 @@
 # BostonHousePricing
-An end to end ML project with Cloud deployment
+An end to end ML project with Herou Cloud deployment using Dockers and Github actions
 
 ### Software and Tools Requirement
 
