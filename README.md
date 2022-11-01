@@ -1,6 +1,8 @@
 # BostonHousePricing
 An end to end ML project with Herou Cloud deployment using Dockers and Github actions
 
+[Entire credit goes to Krish Naik https://github.com/krishnaik06/bostonhousepricing]
+
 ### Software and Tools Requirement
 
 1. [GithubAccount](https://github.com/)
