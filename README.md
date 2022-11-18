@@ -1,5 +1,5 @@
 # BostonHousePricing
-An end to end ML project with Herou Cloud deployment using Dockers and Github actions
+An end to end ML project with Heroku Cloud deployment using Dockers and Github actions
 
 [Entire credit goes to Krish Naik https://github.com/krishnaik06/bostonhousepricing]
 
